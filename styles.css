@@ -203,6 +203,7 @@ main, header, footer{ position: relative; z-index: 1; }
 @media (max-width: 860px){
   .hero-top{ grid-template-columns: 1fr; gap: 32px; }
   .hero-portrait{ aspect-ratio: 16/10; order: -1; }
+}
 
 .eyebrow{
   display: inline-flex;
