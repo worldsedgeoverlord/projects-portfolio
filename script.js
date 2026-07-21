@@ -30,7 +30,7 @@ const projects = [
       "Programmed the HMI for the control valve logic on Honeywell's Station Designer over Modbus/TCP.",
     ],
     images: [
-       "assets/images/manatee-domgas/desk-ngc-ios.jpg",
+       "assets/images/manatee-domgas/Desk-ngc-ios.jpg",
       // "assets/images/manatee-domgas/panel-layout.jpg",
       // "assets/images/manatee-domgas/hmi-screen.jpg",
     ],
