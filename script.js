@@ -27,7 +27,7 @@ const projects = [
       "Pioneered, engineered, and tested the automation package for the NGC DOMGAS facility commissioning on the Shell Manatee project, using the Honeywell HC 900 PLC (SIL 2) and Honeywell Process Design Software — the first time an HC 900 was introduced at Plant Solutions Ltd.",
       "Built the control logic for the Pipeline Control System (PCS), Fire & Gas System (FGS), and Pipeline Safety System (PSS).",
       "Produced Panel Layout Drawings, Communication Architecture Drawings, and I/O Wiring Diagrams in AutoCAD.",
-      "Programmed the HMI for the control valve logic on Honeywell's Station Designer over Modbus/TCP.",
+      "Programmed the Honeywell HC 900 SIL 2 for the PCS,FGS,and PSS and communicated with the Honeywell CR 900 HMI over Modbus/TCP.",
     ],
     images: [
        "assets/images/manatee-domgas/Desk-ngc-ios.jpg",
