@@ -30,7 +30,7 @@ const projects = [
       "Programmed the Honeywell HC 900 SIL 2 for the PCS,FGS,and PSS and communicated with the Honeywell CR 900 HMI over Modbus/TCP.",
     ],
     images: [
-       "assets/images/manatee-domgas/Desk-ngc-ios.jpg",
+       "assets/images/manatee-domgas/Honeywell plcs.jpg",
       // "assets/images/manatee-domgas/panel-layout.jpg",
       // "assets/images/manatee-domgas/hmi-screen.jpg",
     ],
