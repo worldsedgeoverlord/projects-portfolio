@@ -21,7 +21,7 @@ const projects = [
     org: "Plant Solutions Ltd — Mentor: Ansaar Hosein",
     title: "Shell Manatee Project — NGC DOMGAS Facility Commissioning",
     role: "Automation Engineering Associate",
-    status: "Commissioned — first HC 900 deployment at PSL",
+    status: "Commissioned — first HC 900 deployment",
     tags: ["Honeywell HC 900 PLC · SIL 2", "Process Design Suite", "Modbus/TCP", "AutoCAD", "Station Designer HMI"],
     points: [
       "Pioneered, engineered, and tested the automation package for the NGC DOMGAS facility commissioning on the Shell Manatee project, using the Honeywell HC 900 PLC (SIL 2) and Honeywell Process Design Software — the first time an HC 900 was introduced at Plant Solutions Ltd.",
@@ -35,6 +35,50 @@ const projects = [
       // "assets/images/manatee-domgas/hmi-screen.jpg",
     ],
   },
+
+   {
+    id: "manatee-domgas",
+    tabLabel: "Shell Manatee / NGC DOMGAS",
+    org: "Plant Solutions Ltd — Mentor: Ansaar Hosein",
+    title: "Shell Manatee Project — NGC DOMGAS Facility Commissioning",
+    role: "Automation Engineering Associate",
+    status: "Commissioned — first HC 900 deployment",
+    tags: ["Honeywell HC 900 PLC · SIL 2", "Process Design Suite", "Modbus/TCP", "AutoCAD", "Station Designer HMI"],
+    points: [
+      "Pioneered, engineered, and tested the automation package for the NGC DOMGAS facility commissioning on the Shell Manatee project, using the Honeywell HC 900 PLC (SIL 2) and Honeywell Process Design Software — the first time an HC 900 was introduced at Plant Solutions Ltd.",
+      "Built the control logic for the Pipeline Control System (PCS), Fire & Gas System (FGS), and Pipeline Safety System (PSS).",
+      "Produced Panel Layout Drawings, Communication Architecture Drawings, and I/O Wiring Diagrams in AutoCAD.",
+      "Programmed the Honeywell HC 900 SIL 2 for the PCS,FGS,and PSS and communicated with the Honeywell CR 900 HMI over Modbus/TCP.",
+    ],
+    images: [
+       "assets/images/manatee-domgas/honeywell plcs.jpg",
+      // "assets/images/manatee-domgas/panel-layout.jpg",
+      // "assets/images/manatee-domgas/hmi-screen.jpg",
+    ],
+  },{
+    id: "A.P.U.A Consolidated SCADA Project",
+    tabLabel: "A.P.U.A Consolidated SCADA Project",
+    org: "Control Technologies Ltd",
+    title: "A.P.U.A Consolidated SCADA System",
+    role: "Technical Development Engineer",
+    status: "Commissioned",
+    tags: ["Ignition SCADA", "Allen Bradley Micro 800", "Modbus/TCP", "MQTT", "Teltonika RUT 956"],
+    points: [
+      "Developed PLC programming logic on Connected Components Workbench to allow for control of 69 sites containg instruments integrated into Ignition for Acuator Control, Level Calculation, Flow Metering and bidriectional MQTT Transmission",
+      "Integrated with Automation Direct Click-Plus PLCs, Maple Systems HMIs and Grunfas Pumps",
+      "Produced I/O indices, interconnect drawings and SCADA Server Rack Layouts for documentation.",
+      "Established bidirectional communication between MIcro 800 PLCs and Ignition using Teltonika RUT 956 routers with MQTT functionality connecting to Ignition's MQTT modules including Engine and Distributor",
+      "Fabricated SCADA Screens using P&ID drawings to emmulate site specific piping and instrumentation with added control and monitoring",
+    ],
+    images: [
+       "assets/images/manatee-domgas/honeywell plcs.jpg",
+      // "assets/images/manatee-domgas/panel-layout.jpg",
+      // "assets/images/manatee-domgas/hmi-screen.jpg",
+    ],
+  },
+
+
+   
   {
     id: "campari-ansa",
     tabLabel: "Campari / ANSA Chemicals",
