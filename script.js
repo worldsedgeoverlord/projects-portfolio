@@ -36,26 +36,8 @@ const projects = [
     ],
   },
 
+  
    {
-    id: "manatee-domgas",
-    tabLabel: "Shell Manatee / NGC DOMGAS",
-    org: "Plant Solutions Ltd — Mentor: Ansaar Hosein",
-    title: "Shell Manatee Project — NGC DOMGAS Facility Commissioning",
-    role: "Automation Engineering Associate",
-    status: "Commissioned — first HC 900 deployment",
-    tags: ["Honeywell HC 900 PLC · SIL 2", "Process Design Suite", "Modbus/TCP", "AutoCAD", "Station Designer HMI"],
-    points: [
-      "Pioneered, engineered, and tested the automation package for the NGC DOMGAS facility commissioning on the Shell Manatee project, using the Honeywell HC 900 PLC (SIL 2) and Honeywell Process Design Software — the first time an HC 900 was introduced at Plant Solutions Ltd.",
-      "Built the control logic for the Pipeline Control System (PCS), Fire & Gas System (FGS), and Pipeline Safety System (PSS).",
-      "Produced Panel Layout Drawings, Communication Architecture Drawings, and I/O Wiring Diagrams in AutoCAD.",
-      "Programmed the Honeywell HC 900 SIL 2 for the PCS,FGS,and PSS and communicated with the Honeywell CR 900 HMI over Modbus/TCP.",
-    ],
-    images: [
-       "assets/images/manatee-domgas/honeywell plcs.jpg",
-      // "assets/images/manatee-domgas/panel-layout.jpg",
-      // "assets/images/manatee-domgas/hmi-screen.jpg",
-    ],
-  },{
     id: "A.P.U.A Consolidated SCADA Project",
     tabLabel: "A.P.U.A Consolidated SCADA Project",
     org: "Control Technologies Ltd",
