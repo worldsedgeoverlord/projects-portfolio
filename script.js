@@ -21,7 +21,7 @@ const projects = [
     org: "Plant Solutions Ltd — Mentor: Ansaar Hosein",
     title: "Shell Manatee Project — NGC DOMGAS Facility Commissioning",
     role: "Automation Engineering Associate",
-    status: "Commissioned — first HC 900 deployment",
+    status: "Commissioned — first HC 900 deployment", 
     tags: ["Honeywell HC 900 PLC · SIL 2", "Process Design Suite", "Modbus/TCP", "AutoCAD", "Station Designer HMI"],
     points: [
       "Pioneered, engineered, and tested the automation package for the NGC DOMGAS facility commissioning on the Shell Manatee project, using the Honeywell HC 900 PLC (SIL 2) and Honeywell Process Design Software — the first time an HC 900 was introduced at Plant Solutions Ltd.",
